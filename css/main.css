@@ -468,7 +468,7 @@ template {
 .hero {
   padding: 153px 0;
   background-repeat: no-repeat;
-  background-image: url(../../img/hero-bg.png);
+  background-image: url(../img/hero-bg.png);
   background-size: cover;
   position: relative;
 }
@@ -488,7 +488,7 @@ template {
   width: 186px;
   height: 62px;
   background-repeat: no-repeat;
-  background-image: url(../../img/hero-circles.svg);
+  background-image: url(../img/hero-circles.svg);
   top: 65%;
   right: 0;
 }
@@ -516,7 +516,7 @@ template {
   top: 19%;
   right: -120%;
   background-repeat: no-repeat;
-  background-image: url(../../img/arrow.svg);
+  background-image: url(../img/arrow.svg);
 }
 
 .hero__text {
@@ -582,7 +582,7 @@ template {
   top: 0;
   left: 0;
   background-repeat: no-repeat;
-  background-image: url(../../../img/service1.svg);
+  background-image: url(../img/service1.svg);
   z-index: 1;
 }
 
